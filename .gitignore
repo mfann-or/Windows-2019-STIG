@@ -43,3 +43,6 @@ benchparse/
 
 # GitHub Action/Workflow files
 .github/
+
+# Ansible Galaxy
+meta/.galaxy_install_info
